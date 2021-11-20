@@ -17,6 +17,10 @@ Laravel backend for market-client.
 `
 php artisan db:seed
 `
+- Run server
+`
+php artisan serve
+`
 
 ## Endpoints
 | METHOD  | DESCRIPTION  | ENDPOINT |
